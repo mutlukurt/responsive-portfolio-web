@@ -2,6 +2,12 @@
 
 A clean, professional, and mobile-friendly personal portfolio website built with semantic HTML5, modern CSS, and vanilla JavaScript. Features elegant design with soft pastels and warm neutral colors, smooth animations, and comprehensive responsive design.
 
+## 🌐 Live Demo
+
+**🚀 [View Live Portfolio](https://mutlukurt.github.io/responsive-portfolio-web/)**
+
+Experience the portfolio website in action with all interactive features, animations, and responsive design.
+
 ## 🌟 Features
 
 ### Design & Layout
