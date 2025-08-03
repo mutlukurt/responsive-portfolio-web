@@ -153,10 +153,16 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Feel free to fork this project and customize it for your own portfolio. If you make improvements that could benefit others, pull requests are welcome!
 
+## 👨‍💻 Author
+
+**Mutlu Kurt**
+- Portfolio: [https://mutlukurt.github.io/responsive-portfolio-web/](https://mutlukurt.github.io/responsive-portfolio-web/)
+- GitHub: [@mutlukurt](https://github.com/mutlukurt)
+
 ## 📧 Contact
 
 For questions or suggestions about this portfolio template, feel free to reach out!
 
 ---
 
-**Built with ❤️ and lots of ☕**
+**Built with ❤️ and lots of ☕ by Mutlu Kurt**
